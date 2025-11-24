@@ -1,6 +1,6 @@
 # Multi-user, Context-adaptive LLM System
 
-[GitHub Repository](https://github.com/ohnogaurav/Personalised-RAG-LLM-ChatBot) | [Hugging Face Demo](https://huggingface.co/spaces/ohnogaurav/Personal-memory-llm)
+[GitHub Repository](https://github.com/connectwithsagar/Multi-User_Context-Adaptive_LLM_System) | [Hugging Face Demo](https://huggingface.co/spaces/ohnogaurav/Personal-memory-llm)
 
 ---
 
