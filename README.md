@@ -1,6 +1,6 @@
 # Multi-user, Context-adaptive LLM System
 
-[GitHub Repository](https://github.com/connectwithsagar/Multi-User_Context-Adaptive_LLM_System) | [Hugging Face Demo](https://huggingface.co/spaces/ohnogaurav/Personal-memory-llm)
+[GitHub Repository](https://github.com/connectwithsagar/Multi-User_Context-Adaptive_LLM_System) | [Hugging Face Demo](https://huggingface.co/spaces/Sagar8528/Multi-User_Context-Adaptive_LLM_System)
 
 ---
 
@@ -67,8 +67,8 @@ MongoDB (Persistent User Memory)
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/ohnogaurav/Personalised-RAG-LLM-ChatBot.git
-cd Personalised-RAG-LLM-ChatBot
+git clone https://github.com/connectwithsagar/Multi-User_Context-Adaptive_LLM_System.git
+cd Multi-User_Context-Adaptive_LLM_System
 ```
 
 2. Install dependencies:
